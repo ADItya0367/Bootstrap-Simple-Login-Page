@@ -1,0 +1,40 @@
+Bootstrap is mainly used to build RWD responsive web design 
+
+Bootstrap is mainly build with the help of HTML Css and javascript by twitter company who is maninly focussing on 
+Responsiveness of the pages
+
+Bootstrap works on 12 columns grid system 
+
+
+CSS Classes -
+in css there are two types of classes 
+* user defined
+* pre defined
+
+in bootstrap all the classes are pre defined which includes the properties 
+
+Containers in BS-
+* Containers
+* Container-fluid
+
+Blocking system means to know what we are doing 
+
+in Bootstrap we mainly do the changes in the user defined classes not the pre defined classes of bootstrap 
+
+in bootstrap there is a class of making padding 0 is 
+* p-0
+* ps-0 , pe-0
+
+remove the height of parent once childdren are assigned 
+
+SVG stands for scalable vector graphics  and are Vector graphic
+(adobe xd) , highly scalable and don't pixelate on zooming 
+
+jpg joint photographic expert group and are Raster graph 
+(adobe )
+
+Make sure to include meta tag = viewport which is mainly used for building responsive pages 
+
+In bootstrap row is always a parent of columns and it works on 12 columns grid system 
+
+Column in bootstrapis a flexible class
