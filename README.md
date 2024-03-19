@@ -1,6 +1,8 @@
 
 ![Screenshot (8)](https://github.com/ADItya0367/Bootstrap-Simple-Login-Page/assets/113133103/7b1e3d42-43df-42db-ae60-22a2b0897ec1)
 
+**NETLIFY**  https://65f93ab20358e584a6588f09--teal-crumble-c3b2e2.netlify.app/
+
 
 **Build a Sample Page Using Bootstrap**
 Welcome to the Bootstrap Simple Project! For this project, you'll be creating a  web page fully on Bootstrap to show off your work. We will test your HTML knowledge and then it will be up to you to use CSS to style your own page and make it unique.
